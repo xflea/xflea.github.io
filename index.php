@@ -4,6 +4,6 @@
     </head>
 
     <body>
-        <?php echo "Sono proprio io!" ?>
+        <?php echo "Sono proprio io!"; ?>
     </body>
 </html>
